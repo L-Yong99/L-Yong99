@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Started my programming journey in October 2022, currently working on portfolio to land a role as a backend developer. Feeling ready to embark in my IT field pilgrimage. :metal:<br/> <br/>
+Started my programming journey in October 2022, currently working on portfolio to land a role as a backend developer. Getting ready to embark in my IT field pilgrimage. :metal:<br/> <br/>
 :trophy: My best project yet: [Hello World, Le Wagon Project](https://helloworld123.herokuapp.com/) <br/>
 🔭 I’m currently working on enhancing my portoflio to land my first programming job! <br/>
 🌱 I’m currently improving on Ruby on Rails & leetcodes <br/>
