@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Started my programming journey in October 2022
 :trophy: My best project yet: [Hello World, Le Wagon Project](https://helloworld123.herokuapp.com/)
+🔭 I’m currently working on enhancing my portoflio to land my first programming job!
+🌱 I’m currently improving on Ruby on Rails & leetcodes
