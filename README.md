@@ -22,4 +22,4 @@ Started my programming journey in October 2022, currently working on portfolio t
  Reach me at: l.yong5982@gmail.com <br/><br/>
 
 
- ![Anurag's GitHub stats](https://github-readme-stats-azure-nu.vercel.app/api?username=L-Yong99&theme=radical)
+ ![Anurag's GitHub stats](https://github-readme-stats-azure-nu.vercel.app/api?username=L-Yong99&theme=dracula)
