@@ -20,4 +20,5 @@ Started my programming journey in October 2022, currently working on portfolio t
 🌱 Currently improving on Ruby on Rails & leetcoding <br/>
 :fire: I am interested in polishing my coding skills for now <br/><br/>
  Reach me at: l.yong5982@gmail.com <br/><br/>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L-Yong99)](https://github.com/anuraghazra/github-readme-stats)
+ https://github-readme-stats.vercel.app/api?username=[L-Yong99]
+ 
