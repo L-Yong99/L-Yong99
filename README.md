@@ -23,14 +23,14 @@ Hi! I am currently a Digital Integration Engineer aspiring to become a Solution 
 - **Data Extraction**: API, SNMP, Web Scraping
 - **CIS Compliance**: CIS Benchmarks, CIS-CAT-PRO
 - **Monitoring and Logging**: KIWI Syslog, Proxmox, Zabbix, Grafana
-- **Network Configurations**: Network hardware (Servers, Switches, etc.)
-- **Development**: Full-Stack Development, Heroku
+- **Network Hardwares Configurations**: Network hardwares (Servers, Switches, etc.)
+- **Development**: Full-Stack Development, Object-Oriented Programming (OOP), Heroku
 
 ## Technical Skills
-- Full-Stack Development
-- GitHub, HTML, CSS, React, JSON, Ruby, Python, PHP, C, JavaScript
-- MySQL, PostgreSQL, MongoDB, Firestore
-- Object-Oriented Programming (OOP)
+- **Front-End**: GitHub, HTML, CSS, React, JavaScript
+- **Back-End**: Ruby, Python, PHP, C, Node.js
+- **Databases**: MySQL, PostgreSQL, MongoDB, Firestore
+- **Data Interchange**: JSON
 
 ## Frameworks
 - Ruby on Rails, MERN Stack, PERN Stack, ELK Stack
@@ -38,17 +38,6 @@ Hi! I am currently a Digital Integration Engineer aspiring to become a Solution 
 ## Design Tools
 - Photoshop, Illustrator, SolidWorks, Rhino, KeyShot, Figma
 
-
-## Technical Skills
-- GitHub, HTML, CSS, React, JSON, Ruby, Python, PHP, C, JavaScript
-- MySQL, PostgreSQL, MongoDB, Firestore
-- Object-Oriented Programming (OOP)
-
-## Frameworks
-- Ruby on Rails, MERN Stack, PERN Stack, ELK Stack
-
-## Design Tools
-- Photoshop, Illustrator, SolidWorks, Rhino, KeyShot, Figma
 
 
 
