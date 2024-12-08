@@ -36,12 +36,10 @@ Hi! I am currently a Digital Integration Engineer aspiring to become a Solution 
 - Ruby on Rails, MERN Stack, PERN Stack, ELK Stack
 
 ## Design Tools
-- Photoshop, Illustrator, SolidWorks, Rhino, KeyShot, Figma
+- **Graphic Design**: Photoshop, Illustrator, Figma
+- **UI/UX**: Figma
+- **3D Modeling**: SolidWorks, Rhino
+- **Rendering**: KeyShot
 
-
-
-
-
-
-
+## Github Stats
  ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=L-Yong99&theme=dracula)
