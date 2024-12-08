@@ -9,7 +9,7 @@ Hi! I am currently a Digital Integration Engineer aspiring to become a Solution 
 - **Data Extraction**: API, SNMP, Web Scraping
 - **CIS Compliance**: CIS Benchmarks, CIS-CAT-PRO
 - **Monitoring and Logging**: KIWI Syslog, Proxmox, Zabbix, Grafana
-- **Network Hardwares Configurations**: Network hardwares (Servers, Switches, UCPE, etc.)
+- **Network Hardwares Configurations**: Network hardwares (Servers, Switches, UCPE, etc.), SSH
 - **Development**: Full-Stack Development, Object-Oriented Programming (OOP), Heroku
 - **Media Management**: Cloudinary
 
