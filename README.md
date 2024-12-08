@@ -14,12 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Started my programming journey in October 2022, currently working on portfolio to land a role as a backend developer. Getting ready to embark on my IT field journey. :metal:<br/> <br/>
-:trophy: Best project yet: [Hello World, Le Wagon Project](https://helloworld123.herokuapp.com/) <br/>
-🔭 Currently working on enhancing my portoflio to land my first programming job! <br/>
-🌱 Currently improving on Ruby on Rails & leetcoding <br/>
-:fire: I am interested in polishing my coding skills for now <br/><br/>
- Reach me at: l.yong5982@gmail.com <br/><br/>
+Hi! I am currently a Digital Integration Engineer aspiring to become a Solution Architect. I have a profound desire to understand modern technology architectures and am captivated by the integration of technology with other systems. I am driven to design robust and efficient architectural solutions. My background also includes experience as an industrial designer, where I have experience in 3D modeling, rendering, graphic design, and interior design
 
 
  ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=L-Yong99&theme=dracula)
