@@ -25,6 +25,7 @@ Hi! I am currently a Digital Integration Engineer aspiring to become a Solution 
 - **Monitoring and Logging**: KIWI Syslog, Proxmox, Zabbix, Grafana
 - **Network Hardwares Configurations**: Network hardwares (Servers, Switches, etc.)
 - **Development**: Full-Stack Development, Object-Oriented Programming (OOP), Heroku
+- **Media Management**: Cloudinary
 
 ## Technical Skills
 - **Front-End**: GitHub, HTML, CSS, React, JavaScript
