@@ -36,7 +36,7 @@ Hi! I am currently a Digital Integration Engineer aspiring to become a Solution 
 - Ruby on Rails, MERN Stack, PERN Stack, ELK Stack
 
 ## Design Tools
-- **Graphic Design**: Photoshop, Illustrator, Figma
+- **Graphic Design**: Photoshop, Illustrator
 - **UI/UX**: Figma
 - **3D Modeling**: SolidWorks, Rhino
 - **Rendering**: KeyShot
