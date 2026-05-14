@@ -2,7 +2,7 @@
 
 <img src="https://github.com/L-Yong99/L-Yong99/blob/main/hello%20there.gif?raw=true" width="300">
 
-Hi! I am currently a Digital Integration Engineer aspiring to become a Solution Architect. I have a profound desire to understand modern technology architectures and am captivated by the integration of technology with other systems. I am driven to design robust and efficient architectural solutions. My background also includes experience as an industrial designer, where I have experience in 3D modeling, rendering, graphic design, and interior design. I miss having the time to work on leetcode challenges tho. ☕
+Aspiring AI Solutions Architect ~
 
 ## Experience in
 - **Cloud Platforms**: VMware ESXi, Ansible, AWS (Amazon Web Services), Azure (Microsoft Azure), Google Cloud Platform (GCP)
